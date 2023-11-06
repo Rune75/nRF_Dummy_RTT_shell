@@ -60,7 +60,7 @@ uintptr_t __irq_vector_table _irq_vector_table[48] = {
 struct _isr_table_entry __sw_isr_table _sw_isr_table[48] = {
 	{(const void *)0x448d, (ISR)0x81e7},
 	{(const void *)0x0, (ISR)((uintptr_t)&z_irq_spurious)},
-	{(const void *)0x8d24, (ISR)0x8137},
+	{(const void *)0x8d5c, (ISR)0x8137},
 	{(const void *)0x0, (ISR)((uintptr_t)&z_irq_spurious)},
 	{(const void *)0x0, (ISR)((uintptr_t)&z_irq_spurious)},
 	{(const void *)0x0, (ISR)((uintptr_t)&z_irq_spurious)},
