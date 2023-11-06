@@ -39,231 +39,231 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/arch/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/arch/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/lib/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/lib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/soc/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/soc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/boards/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/boards/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/subsys/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/subsys/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/drivers/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/drivers/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/nrf/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/nrf/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/wfa-qt-control-app/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/wfa-qt-control-app/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/mcuboot/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/mcuboot/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/mbedtls/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/mbedtls/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/trusted-firmware-m/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/trusted-firmware-m/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/cjson/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/cjson/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/azure-sdk-for-c/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/azure-sdk-for-c/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/cirrus-logic/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/cirrus-logic/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/openthread/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/openthread/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/memfault-firmware-sdk/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/memfault-firmware-sdk/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/canopennode/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/canopennode/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/chre/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/chre/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/cmsis/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/cmsis/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/fatfs/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/fatfs/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/hal_nordic/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/hal_nordic/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/st/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/st/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/hal_wurthelektronik/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/hal_wurthelektronik/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/libmetal/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/libmetal/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/liblc3/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/liblc3/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/littlefs/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/littlefs/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/loramac-node/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/loramac-node/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/lvgl/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/lvgl/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/lz4/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/lz4/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/mipi-sys-t/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/mipi-sys-t/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/nanopb/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/nanopb/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/nrf_hw_models/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/nrf_hw_models/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/open-amp/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/open-amp/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/picolibc/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/picolibc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/segger/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/segger/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/tinycrypt/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/tinycrypt/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/TraceRecorder/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/TraceRecorder/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/uoscore-uedhoc/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/uoscore-uedhoc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/zcbor/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/zcbor/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/zscilib/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/zscilib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/nrfxlib/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/nrfxlib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/connectedhomeip/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/connectedhomeip/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/kernel/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/kernel/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/cmake/flash/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/cmake/flash/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/cmake/usage/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/cmake/usage/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/cmake/reports/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/cmake/reports/cmake_install.cmake")
 endif()
 

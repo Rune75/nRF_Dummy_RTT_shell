@@ -306,6 +306,7 @@
 /home/rube/ncs/v2.5.0/nrfxlib/nrf_rpc/Kconfig
 /home/rube/ncs/v2.5.0/nrfxlib/openthread/Kconfig
 /home/rube/ncs/v2.5.0/nrfxlib/zboss/Kconfig
+/home/rube/ncs/v2.5.0/zephyr/Kconfig
 /home/rube/ncs/v2.5.0/zephyr/Kconfig.zephyr
 /home/rube/ncs/v2.5.0/zephyr/arch/Kconfig
 /home/rube/ncs/v2.5.0/zephyr/arch/arm/Kconfig
@@ -2460,8 +2461,7 @@
 /home/rube/ncs/v2.5.0/zephyr/subsys/usb/host/Kconfig
 /home/rube/ncs/v2.5.0/zephyr/subsys/usb/usb_c/Kconfig
 /home/rube/ncs/v2.5.0/zephyr/subsys/zbus/Kconfig
-/home/rube/work/local/nRFVScode/mittshell/Kconfig
-/home/rube/work/local/nRFVScode/mittshell/build/Kconfig/Kconfig.dts
-/home/rube/work/local/nRFVScode/mittshell/build/Kconfig/Kconfig.modules
-/home/rube/work/local/nRFVScode/mittshell/build/Kconfig/Kconfig.shield
-/home/rube/work/local/nRFVScode/mittshell/build/Kconfig/Kconfig.shield.defconfig
+/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/Kconfig/Kconfig.dts
+/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/Kconfig/Kconfig.modules
+/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/Kconfig/Kconfig.shield
+/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/Kconfig/Kconfig.shield.defconfig

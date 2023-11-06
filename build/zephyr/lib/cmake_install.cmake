@@ -39,26 +39,26 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/lib/crc/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/lib/crc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/lib/libc/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/lib/libc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/lib/posix/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/lib/posix/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/lib/hash/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/lib/hash/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/lib/os/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/lib/os/cmake_install.cmake")
 endif()
 

@@ -1,3 +1,1 @@
-osource "/home/rube/work/local/nRFVScode/shell_module/boards/shields/*/Kconfig.defconfig"
-osource "/home/rube/work/local/nRFVScode/ZigbeeShell/boards/shields/*/Kconfig.defconfig"
 osource "/home/rube/ncs/v2.5.0/nrf/boards/shields/*/Kconfig.defconfig"

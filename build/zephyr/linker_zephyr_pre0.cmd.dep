@@ -1,13 +1,13 @@
 linker_zephyr_pre0.cmd: \
  /home/rube/ncs/v2.5.0/zephyr/soc/arm/nordic_nrf/nrf52/linker.ld \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/autoconf.h \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/autoconf.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/arch/arm/aarch32/cortex_m/scripts/linker.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/sections.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/section_tags.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/toolchain.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/toolchain/gcc.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/devicetree.h \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/devicetree_generated.h \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/devicetree_generated.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/sys/util.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/sys/util_macro.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/sys/util_internal.h \
@@ -29,12 +29,12 @@ linker_zephyr_pre0.cmd: \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/devicetree_regions.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/linker-defs.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/toolchain/common.h \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/offsets.h \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/offsets.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/linker-tool.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/linker-tool-gcc.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/sys/mem_manage.h \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/rel-sections.ld \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/snippets-rom-start.ld \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/snippets-rom-start.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/../arch/common/rom_start_address.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/../arch/common/rom_start_offset.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/../arch/arm/core/aarch32/vector_table.ld \
@@ -53,19 +53,19 @@ linker_zephyr_pre0.cmd: \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/common-rom/common-rom-debug.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/common-rom/common-rom-misc.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/thread-local-storage.ld \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/snippets-rodata.ld \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/snippets-rodata.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/kobject-rom.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/cplusplus-rom.ld \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/snippets-ram-sections.ld \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/snippets-ram-sections.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/../arch/common/ramfunc.ld \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/snippets-ramfunc-section.ld \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/snippets-rwdata.ld \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/snippets-ramfunc-section.ld \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/snippets-rwdata.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/common-ram.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/kobject-data.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/cplusplus-ram.ld \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/snippets-data-sections.ld \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/snippets-noinit.ld \
- /home/rube/work/local/nRFVScode/mittshell/build/zephyr/include/generated/snippets-sections.ld \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/snippets-data-sections.ld \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/snippets-noinit.ld \
+ /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/include/generated/snippets-sections.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/intlist.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/ram-end.ld \
  /home/rube/ncs/v2.5.0/zephyr/include/zephyr/linker/debug-sections.ld

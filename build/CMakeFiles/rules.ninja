@@ -6,7 +6,7 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
-# Project: minimal
+# Project: blinky
 # Configurations: 
 # =============================================================================
 # =============================================================================
@@ -557,7 +557,7 @@ rule C_STATIC_LIBRARY_LINKER__kernel_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/rube/ncs/toolchains/7795df4459/usr/local/bin/cmake --regenerate-during-build -S/home/rube/work/local/nRFVScode/mittshell -B/home/rube/work/local/nRFVScode/mittshell/build
+  command = /home/rube/ncs/toolchains/7795df4459/usr/local/bin/cmake --regenerate-during-build -S/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell -B/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build
   description = Re-running CMake...
   generator = 1
 

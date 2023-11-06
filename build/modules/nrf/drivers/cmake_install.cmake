@@ -39,16 +39,16 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/nrf/drivers/hw_cc310/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/nrf/drivers/hw_cc310/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/nrf/drivers/entropy/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/nrf/drivers/entropy/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/modules/nrf/drivers/serial/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/modules/nrf/drivers/serial/cmake_install.cmake")
 endif()
 

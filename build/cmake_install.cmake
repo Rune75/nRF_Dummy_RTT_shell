@@ -1,4 +1,4 @@
-# Install script for directory: /home/rube/work/local/nRFVScode/mittshell
+# Install script for directory: /home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/rube/work/local/nRFVScode/mittshell/build/zephyr/cmake_install.cmake")
+  include("/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/zephyr/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/rube/work/local/nRFVScode/mittshell/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/rube/work/local/nRFVScode/zephyr_minimal_RTT_shell/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
