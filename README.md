@@ -1,0 +1,1 @@
+# zephyr_minimal_RTT_shell
