@@ -1,1 +1,1 @@
-**Minimal Zephyr sell app
+Minimal Zephyr sell app
