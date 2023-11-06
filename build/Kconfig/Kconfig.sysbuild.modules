@@ -1,0 +1,6 @@
+menu "nrf (/home/rube/ncs/v2.5.0/nrf)"
+osource "/home/rube/ncs/v2.5.0/nrf/sysbuild/Kconfig.sysbuild"
+config ZEPHYR_NRF_MODULE
+	bool
+	default y
+endmenu
