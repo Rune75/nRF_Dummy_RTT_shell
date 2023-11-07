@@ -1,6 +1,6 @@
-Flimmsy Zephyr RTT shell app.
+Mokup of a bad Zephyr RTT shell app.
 
-This app does nothing, other than providing a simulated flimmsy asyncronous interface for a modem trough a RTT Shell of a nrf device.
+This app does nothing, other than providing a simulated asyncronous interface for a modem trough a RTT Shell of a nrf device.
 
 Interface commands
 
