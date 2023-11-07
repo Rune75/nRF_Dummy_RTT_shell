@@ -1,6 +1,9 @@
-Minimal Zephyr sell app
+Flimmsy Zephyr RTT shell app.
 
-Interface
+This app does nothing other than providing a simulated flimmsy asyncronous interface for a modem. Trough the RTT Shell of a nrf device. 
+
+Interface commands
+
 modem start
 modem stop
 modem set <whatever>
