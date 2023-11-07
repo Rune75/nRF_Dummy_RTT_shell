@@ -5,7 +5,11 @@ This app does nothing other than providing a simulated flimmsy asyncronous inter
 Interface commands
 
 modem start
+
 modem stop
+
 modem set <whatever>
+
 modem get uccid
+
 modem get imei
